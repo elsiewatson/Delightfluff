@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "date": "12 August, 2024",
+    "day": "12",
+    "month": "Aug",
+    "category": ["Burger, Food"],
+    "dateIcon": "far fa-calendar-alt",
+    "author": "john Baus",
+    "authorIcon": "far fa-user-circle",
+    "title": "The Science of Baking: What Makes a Cake Rise?",
+    "url":"the-science-of-baking-what-makes-a-cake-rise",
+    "text": "Bndulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now",
+    "btnText": "Read More",
+    "btnIcon": "fas fa-arrow-right",
+    "thumbFull": "1-full.jpg",
+    "thumb": "1.jpg",
+    "animationDelay": "300ms"
+  },
+  {
+    "id": 2,
+    "date": "13 August, 2024",
+    "day": "13",
+    "month": "Aug",
+    "category": ["Pizza, Food"],
+    "dateIcon": "far fa-calendar-alt",
+    "author": "Admin",
+    "authorIcon": "far fa-user-circle",
+    "title": "Vegan Cakes: The Rise of Plant-Based Baking",
+    "url":"vegan-cakes-the-rise-of-plant-based-baking",
+    "text": "Bndulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now",
+    "btnText": "Read More",
+    "btnIcon": "fas fa-arrow-right",
+    "thumbFull": "2-full.jpg",
+    "thumb": "2.jpg",
+    "animationDelay": "500ms"
+  }
+]

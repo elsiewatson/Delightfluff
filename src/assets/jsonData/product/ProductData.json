@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "thumb": "1.png",
+    "productTag": ["Cheese", "Pizza"],
+    "title": "Personalized wedding cake",
+    "newPrice": 96.0,
+    "oldPrice": 120.0,
+    "btnText": "Add to cart",
+    "url": "personalized-wedding-cake"
+  },
+  {
+    "id": 2,
+    "thumb": "2.png",
+    "badge": "Sale!",
+    "productTag": ["Creamy", "Burger"],
+    "title": "Custom birthday cake",
+    "newPrice": 64.0,
+    "oldPrice": 80.0,
+    "btnText": "Add to cart",
+    "url": "custom-birthday-cake"
+  },
+  {
+    "id": 3,
+    "thumb": "3.png",
+    "productTag": ["Beef", "Steak"],
+    "title": "Classic chocolate fudge cake",
+    "newPrice": 48.0,
+    "oldPrice": 60.0,
+    "btnText": "Add to cart",
+    "url": "classic-chocolate-fudge-cake"
+  },
+  {
+    "id": 4,
+    "thumb": "5.png",
+    "productTag": ["BBQ", "Meat"],
+    "title": "Decadent red velvet cake",
+    "newPrice": 60.0,
+    "oldPrice": 75.0,
+    "btnText": "Add to cart",
+    "url": "decadent-red-velvet-cake"
+  },
+  {
+    "id": 5,
+    "thumb": "8.png",
+    "productTag": ["Food", "Roll"],
+    "title": "Christmas almond fruitcake",
+    "newPrice": 80.0,
+    "oldPrice": 100.0,
+    "btnText": "Add to cart",
+    "url": "christmas-almond-fruitcake"
+  },
+  {
+    "id": 6,
+    "thumb": "6.png",
+    "productTag": ["Pasta", "Spicy"],
+    "title": "Halloween pumpkin spice cake",
+    "newPrice": 68.0,
+    "oldPrice": 85.0,
+    "btnText": "Add to cart",
+    "url": "halloween-pumpkin-spice-cake"
+  },
+  {
+    "id": 7,
+    "thumb": "7.png",
+    "productTag": ["Meat", "Shawarma"],
+    "title": "Miniature lemon meringue cupcakes",
+    "newPrice": 40.0,
+    "oldPrice": 50.0,
+    "btnText": "Add to cart",
+    "url": "miniature-lemon-meringue-cupcakes"
+  },
+  {
+    "id": 8,
+    "thumb": "4.png",
+    "productTag": ["Sandwich", "Chicken"],
+    "title": "Chocolate raspberry mini cakes",
+    "newPrice": 56.0,
+    "oldPrice": 70.0,
+    "btnText": "Add to cart",
+    "url": "chocolate-raspberry-mini-cakes"
+  }
+]

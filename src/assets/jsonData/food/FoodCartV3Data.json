@@ -1,0 +1,126 @@
+[
+  {
+    "id": 1,
+    "tabClass": "show active",
+    "tabId": "tab1",
+    "tabData": [
+      {
+        "id": 1,
+        "thumb": "1.jpg",
+        "rating": 4.9,
+        "review": 5.7,
+        "oldPrice": 120.0,
+        "newPrice": 96.0,
+        "name": "Personalized wedding cake",
+        "url": "personalized-wedding-cake",
+        "list": ["4 chicken legs", "Chili sauce", "Soft Drinks"],
+        "btnText": "Add to Cart"
+      },
+      {
+        "id": 2,
+        "thumb": "2.jpg",
+        "rating": 4.2,
+        "review": 3.1,
+        "oldPrice": 80.0,
+        "newPrice": 64.0,
+        "name": "Custom birthday cake",
+        "url": "custom-birthday-cake",
+        "list": ["4 chicken legs", "Chili sauce", "Soft Drinks"],
+        "btnText": "Add to Cart"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tabClass": "",
+    "tabId": "tab2",
+    "tabData": [
+      {
+        "id": 1,
+        "thumb": "7.jpg",
+        "rating": 4.9,
+        "review": 5.7,
+        "oldPrice": 60.0,
+        "newPrice": 48.0,
+        "name": "Classic chocolate fudge cake",
+        "url": "classic-chocolate-fudge-cake",
+        "list": ["4 chicken legs", "Chili sauce", "Soft Drinks"],
+        "btnText": "Add to Cart"
+      },
+      {
+        "id": 2,
+        "thumb": "8.jpg",
+        "rating": 4.2,
+        "review": 3.1,
+        "oldPrice": 75.0,
+        "newPrice": 60.0,
+        "name": "Decadent red velvet cake",
+        "url": "decadent-red-velvet-cake",
+        "list": ["4 chicken legs", "Chili sauce", "Soft Drinks"],
+        "btnText": "Add to Cart"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tabClass": "",
+    "tabId": "tab3",
+    "tabData": [
+      {
+        "id": 1,
+        "thumb": "13.jpg",
+        "rating": 4.9,
+        "review": 5.7,
+        "oldPrice": 100.0,
+        "newPrice": 80.0,
+        "name": "Christmas almond fruitcake",
+        "url": "christmas-almond-fruitcake",
+        "list": ["4 chicken legs", "Chili sauce", "Soft Drinks"],
+        "btnText": "Add to Cart"
+      },
+      {
+        "id": 2,
+        "thumb": "14.jpg",
+        "rating": 4.2,
+        "review": 3.1,
+        "oldPrice": 85.0,
+        "newPrice": 68.0,
+        "name": "Halloween pumpkin spice cake",
+        "url": "halloween-pumpkin-spice-cake",
+        "list": ["4 chicken legs", "Chili sauce", "Soft Drinks"],
+        "btnText": "Add to Cart"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "tabClass": "",
+    "tabId": "tab4",
+    "tabData": [
+      {
+        "id": 1,
+        "thumb": "19.jpg",
+        "rating": 4.9,
+        "review": 5.7,
+        "oldPrice": 50.0,
+        "newPrice": 40.0,
+        "name": "Miniature lemon meringue cupcakes",
+        "url": "miniature-lemon-meringue-cupcakes",
+        "list": ["4 chicken legs", "Chili sauce", "Soft Drinks"],
+        "btnText": "Add to Cart"
+      },
+      {
+        "id": 2,
+        "thumb": "20.jpg",
+        "rating": 4.2,
+        "review": 3.1,
+        "oldPrice": 70.0,
+        "newPrice": 56.0,
+        "name": "Chocolate raspberry mini cakes",
+        "url": "chocolate-raspberry-mini-cakes",
+        "list": ["4 chicken legs", "Chili sauce", "Soft Drinks"],
+        "btnText": "Add to Cart"
+      }
+    ]
+  }
+]

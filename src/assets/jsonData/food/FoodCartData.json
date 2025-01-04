@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "thumb": "25.jpg",
+    "category": "Custom cakes",
+    "name": "Custom cakes"
+  },
+  {
+    "id": 2,
+    "thumb": "26.jpg",
+    "category": "Signature cakes",
+    "name": "Signature cakes"
+  },
+  {
+    "id": 3,
+    "thumb": "27.jpg",
+    "category": "Seasonal cakes",
+    "name": "Seasonal cakes"
+  },
+  {
+    "id": 4,
+    "thumb": "28.jpg",
+    "category": "Cupcakes & mini cakes",
+    "name": "Cupcakes & mini cakes"
+  }
+]

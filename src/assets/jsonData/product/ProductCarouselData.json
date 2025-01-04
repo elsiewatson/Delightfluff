@@ -1,0 +1,102 @@
+{
+  "innerCarousel": [
+    {
+      "id": 1,
+      "activeClass1": "active",
+      "thumb": "1.png",
+      "badge": "-16%"
+    },
+    {
+      "id": 2,
+      "activeClass2": "active",
+      "thumb": "2.png",
+      "badge": "-25%"
+    },
+    {
+      "id": 3,
+      "activeClass3": "active",
+      "thumb": "3.png",
+      "badge": "-33%"
+    },
+    {
+      "id": 4,
+      "activeClass4": "active",
+      "thumb": "5.png",
+      "badge": "-50%"
+    },
+    {
+      "id": 5,
+      "activeClass5": "active",
+      "thumb": "8.png",
+      "badge": "-16%"
+    },
+    {
+      "id": 6,
+      "activeClass6": "active",
+      "thumb": "6.png",
+      "badge": "-25%"
+    },
+    {
+      "id": 7,
+      "activeClass7": "active",
+      "thumb": "7.png",
+      "badge": "-33%"
+    },
+    {
+      "id": 8,
+      "activeClass8": "active",
+      "thumb": "4.png",
+      "badge": "-50%"
+    }
+  ],
+  "outerCarousel": [
+    {
+      "id": 1,
+      "activeClass1": "active",
+      "thumb": "1.png",
+      "slideNumber": "0"
+    },
+    {
+      "id": 2,
+      "activeClass": "",
+      "thumb": "2.png",
+      "slideNumber": "1"
+    },
+    {
+      "id": 3,
+      "activeClass": "",
+      "thumb": "3.png",
+      "slideNumber": "2"
+    },
+    {
+      "id": 4,
+      "activeClass": "",
+      "thumb": "4.png",
+      "slideNumber": "3"
+    },
+    {
+      "id": 5,
+      "activeClass": "",
+      "thumb": "1.png",
+      "slideNumber": "5"
+    },
+    {
+      "id": 6,
+      "activeClass": "",
+      "thumb": "2.png",
+      "slideNumber": "6"
+    },
+    {
+      "id": 7,
+      "activeClass": "",
+      "thumb": "3.png",
+      "slideNumber": "7"
+    },
+    {
+      "id": 8,
+      "activeClass8": "active",
+      "thumb": "4.png",
+      "slideNumber": "8"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "thumb": "13.png",
+    "info": "Artistry in every slice",
+    "text": "Our cakes are not just desserts; they are complete works of art, designed to impress both visually and in taste.",
+    "delay": "00ms"
+  },
+  {
+    "id": 2,
+    "thumb": "14.png",
+    "info": "Flavors that tell a story",
+    "text": "With unique combinations of flavors and ingredients, each of our cakes is crafted to tell a story with every bite.",
+    "delay": "200ms"
+  },
+  {
+    "id": 3,
+    "thumb": "15.png",
+    "info": "Joy in every bite",
+    "text": "Creating each piece is an experience for us, which is a remarkable moment of pure happiness and indulgence.",
+    "delay": "400ms"
+  }
+]
