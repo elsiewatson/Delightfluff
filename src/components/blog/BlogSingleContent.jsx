@@ -27,8 +27,8 @@ const BlogSingleContent = () => {
                           process behind the rise of a cake? This blog post will
                           break down the science that is responsible for the
                           rise of a cake and analyze the primary characteristics
-                          involved in the creation of a perfect and
-                          airy-textured cake.
+                          involved in the creation of a perfect and{" "}
+                          <a href="/">airy-textured cake</a>.
                         </p>
                         <h2>The role of leavening agents</h2>
                         <p>
@@ -71,9 +71,15 @@ const BlogSingleContent = () => {
                         </p>
                         <p>
                           The above-mentioned leavening agents have a specific
-                          role and can be used in different cake recipes Each of
-                          these ingredients helps trap air in the batter,
-                          ensuring a rise during baking.
+                          role and can be used in{" "}
+                          <a
+                            href="https://sassychopsticks.com/"
+                            target="_blank"
+                          >
+                            different cake recipes
+                          </a>{" "}
+                          Each of these ingredients helps trap air in the
+                          batter, ensuring a rise during baking.
                         </p>
                         <h2>The significance of air and mixing</h2>
                         <p>
@@ -101,8 +107,9 @@ const BlogSingleContent = () => {
                         <h2>The role of eggs</h2>
                         <p>
                           For a better structure and texture of a cake, eggs
-                          play an important role. They bind the entire mixture
-                          together, trapping air to create an airy and light
+                          play an important role. They{" "}
+                          <a href="/blogs">bind the entire mixture together</a>,
+                          trapping air to create an airy and light
                           texture.&nbsp;Eggs are very important ingredients for
                           their high protein content. When the batter is heated,
                           the protein in the eggs hardens, helping the cake to

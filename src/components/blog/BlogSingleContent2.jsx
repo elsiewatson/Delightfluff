@@ -26,15 +26,19 @@ const BlogSingleContent2 = () => {
                           attention of all dessert lovers and bakers alike.
                           Vegan cakes were once considered the niche option, but
                           today they have become a mainstream trend, offering
-                          sustainable and delicious alternatives to traditional
-                          cakes. This blog post will help you explore everything
-                          you need to know about vegan baking, along with its
+                          sustainable and{" "}
+                          <a href="/">
+                            delicious alternatives to traditional cakes
+                          </a>
+                          . This blog post will help you explore everything you
+                          need to know about vegan baking, along with its
                           benefits and reasons why they are favorite among many.
                         </p>
                         <h2>What are vegan cakes?</h2>
                         <p>
                           Without any animal-derived ingredients, baking vegan
-                          cake is a mouthwatering dessert option. The
+                          cake is a{" "}
+                          <a href="/shop">mouthwatering dessert option</a>. The
                           ingredients excluded from vegan cakes are dairy milk,
                           eggs, and any other common non-veg ingredients. The
                           substitutes for animal-derived ingredients such as soy
@@ -227,14 +231,17 @@ const BlogSingleContent2 = () => {
                         <p>
                           The baking industry has been completely reshaped by
                           the rise of vegan cakes. Cafes and bakeries worldwide
-                          are now offering vegan cake options to meet customer
-                          demand. Some of the renowned brands have also started
-                          to launch vegan pre-made desserts, and cake mixes to
-                          capture the attention of the vegan customer base while
-                          offering them an accessible plant-based baking option.
-                          In the entire culinary world, the shift towards vegan
-                          cakes reflects the larger trend of sustainability and
-                          inclusivity.
+                          are now offering{" "}
+                          <a href="https://ovolohotels.com/" target="_blank">
+                            vegan cake
+                          </a>{" "}
+                          options to meet customer demand. Some of the renowned
+                          brands have also started to launch vegan pre-made
+                          desserts, and cake mixes to capture the attention of
+                          the vegan customer base while offering them an
+                          accessible plant-based baking option. In the entire
+                          culinary world, the shift towards vegan cakes reflects
+                          the larger trend of sustainability and inclusivity.
                         </p>
                         <h2>The reason behind choosing vegan cakes</h2>
                         <p>
